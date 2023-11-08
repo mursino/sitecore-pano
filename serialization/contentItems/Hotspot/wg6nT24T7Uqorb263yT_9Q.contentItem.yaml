@@ -1,0 +1,15 @@
+﻿id: wg6nT24T7Uqorb263yT_9Q
+name: Art Museum Drive
+fields:
+  hotspotName:
+    value: This is Art Museum Drive
+    type: ShortText
+  pitchstring:
+    value: -9.4
+    type: ShortText
+  yawstring:
+    value: 222.6
+    type: ShortText
+  sceneLink:
+    value: []
+    type: Reference

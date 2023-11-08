@@ -1,0 +1,24 @@
+﻿id: 6mcP3PwKeUiL47kiTqC2iw
+name: Baltimore Museum of Art
+fields:
+  sceneName:
+    value: Baltimore Museum of Art
+    type: ShortText
+  hotspots:
+    value:
+    - type: Link
+      relatedType: Content
+      id: 751pqRALskqE2R9UrzoCng
+    - type: Link
+      relatedType: Content
+      id: yPHVW8BCS0iCwRTrCNb0qg
+    - type: Link
+      relatedType: Content
+      id: wg6nT24T7Uqorb263yT_9Q
+    type: Reference
+  sceneImage:
+    value:
+    - type: Link
+      relatedType: Media
+      id: RDjU0wxpw0KJUOqzDuNeJA
+    type: Media

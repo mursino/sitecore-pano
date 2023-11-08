@@ -1,0 +1,15 @@
+﻿id: qFjO_GV4wkGM5tDQIKyS-Q
+name: Broc
+fields:
+  hotspotName:
+    value: This looks like broccoli
+    type: ShortText
+  pitchstring:
+    value: -9.25
+    type: ShortText
+  yawstring:
+    value: 106.04
+    type: ShortText
+  sceneLink:
+    value: []
+    type: Reference

@@ -1,0 +1,15 @@
+﻿id: NKSzFGbokkaW0w566WVdcg
+name: chair
+fields:
+  hotspotName:
+    value: This is where I sit
+    type: ShortText
+  pitchstring:
+    value: -13.766165177983972
+    type: ShortText
+  yawstring:
+    value: 149.06611014885206
+    type: ShortText
+  sceneLink:
+    value: []
+    type: Reference

@@ -1,0 +1,15 @@
+﻿id: nIOKkh9YnU2lMpDf265cvg
+name: hotel
+fields:
+  hotspotName:
+    value: and this is the hotel
+    type: ShortText
+  pitchstring:
+    value: 4.9578133837539236
+    type: ShortText
+  yawstring:
+    value: -150.50960301000373
+    type: ShortText
+  sceneLink:
+    value: []
+    type: Reference

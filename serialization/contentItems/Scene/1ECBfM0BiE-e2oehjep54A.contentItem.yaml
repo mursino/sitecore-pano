@@ -1,0 +1,21 @@
+﻿id: 1ECBfM0BiE-e2oehjep54A
+name: Grocery Store
+fields:
+  sceneName:
+    value: Grocery Store Produce Galore
+    type: ShortText
+  hotspots:
+    value:
+    - type: Link
+      relatedType: Content
+      id: qFjO_GV4wkGM5tDQIKyS-Q
+    - type: Link
+      relatedType: Content
+      id: -peMyne1nUey6mlZBm8J8g
+    type: Reference
+  sceneImage:
+    value:
+    - type: Link
+      relatedType: Media
+      id: iAVaX0pcTUaG8fjMEPoqIA
+    type: Media

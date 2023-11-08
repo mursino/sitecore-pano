@@ -1,0 +1,30 @@
+﻿id: scene
+name:
+  en-US: Scene
+description:
+  en-US: ''
+fields:
+- id: sceneName
+  name:
+    en-US: Scene Name
+  type: ShortText
+  required: true
+  helpText:
+    en-US: ''
+  reference: 
+- id: sceneImage
+  name:
+    en-US: Scene Image
+  type: Media
+  required: true
+  helpText:
+    en-US: ''
+  reference: 
+- id: hotspots
+  name:
+    en-US: Hotspots
+  type: Reference
+  required: true
+  helpText:
+    en-US: One or more points of interest in a scene, with useful content.
+  reference: 

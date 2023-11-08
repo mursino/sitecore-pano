@@ -1,0 +1,24 @@
+﻿id: Bv2s9IXwaUSmrFDHIQAflQ
+name: Beach
+fields:
+  sceneName:
+    value: A wonderful beach
+    type: ShortText
+  hotspots:
+    value:
+    - type: Link
+      relatedType: Content
+      id: NKSzFGbokkaW0w566WVdcg
+    - type: Link
+      relatedType: Content
+      id: Q_MFlKzT_0S5-y5pclx45Q
+    - type: Link
+      relatedType: Content
+      id: nIOKkh9YnU2lMpDf265cvg
+    type: Reference
+  sceneImage:
+    value:
+    - type: Link
+      relatedType: Media
+      id: S6jR1gIOJEqpjtAjiJkslg
+    type: Media

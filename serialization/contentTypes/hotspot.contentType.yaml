@@ -1,0 +1,38 @@
+﻿id: hotspot
+name:
+  en-US: Hotspot
+description:
+  en-US: ''
+fields:
+- id: hotspotName
+  name:
+    en-US: Hotspot Name
+  type: ShortText
+  required: true
+  helpText:
+    en-US: ''
+  reference: 
+- id: pitchstring
+  name:
+    en-US: Pitch
+  type: ShortText
+  required: true
+  helpText:
+    en-US: ''
+  reference: 
+- id: yawstring
+  name:
+    en-US: Yaw
+  type: ShortText
+  required: true
+  helpText:
+    en-US: ''
+  reference: 
+- id: sceneLink
+  name:
+    en-US: Scene Link
+  type: Reference
+  required: false
+  helpText:
+    en-US: Optional reference to another scene from this hotspot
+  reference: 

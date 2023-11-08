@@ -1,0 +1,15 @@
+﻿id: Q_MFlKzT_0S5-y5pclx45Q
+name: Marcel
+fields:
+  hotspotName:
+    value: Marcel the shell is from here
+    type: ShortText
+  pitchstring:
+    value: -21.834973320590468
+    type: ShortText
+  yawstring:
+    value: -77.09518519227225
+    type: ShortText
+  sceneLink:
+    value: []
+    type: Reference

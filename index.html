@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Panoramic demos</title>
+    <link rel="stylesheet" href="assets/pannellum.css" />
+    <link rel="stylesheet" href="assets/styles.css" />
+    <script type="module" src="assets/pannellum.js"></script>
+  </head>
+  <body>
+    <div id="title">Sitecore Pano <span>Alpha</span></div>
+    <p>
+      This is a demo of what is possible with a headless CMS that focuses on
+      managing pure content. While many CMS solutions are used to build
+      traditional websites (header, footer, page text and images), virtual
+      experiences like this can also be powered by a CMS. Please select a sample
+      panoramic scene below to explore what is possible. Images and hotspots are
+      managed in Content Hub ONE as pure content. Right now only individual
+      scenes can be explored. In the future multiple scenes will be linked
+      together to create virtual tours (e.g. a university campus, the various
+      hallways of a large hospital, a tourist destination such as a museum).
+    </p>
+    <div id="panorama"></div>
+    <div id="list"></div>
+
+    <div id="reload">
+      <a href="#" id="reloadlink">🔄 start over</a>
+    </div>
+    <div class="credit">
+      <a target="_blank" id="photo-credit">📸 credit</a>
+    </div>
+    <div class="powered-by">
+      powered by<br />
+      <a target="_blank" href="https://doc.sitecore.com/ch-one"
+        ><img src="assets/ch-one.svg"
+      /></a>
+      <a target="_blank" href="https://www.netlify.com"
+        ><img width="70px" src="assets/netlify.png"
+      /></a>
+    </div>
+    <script type="module" src="assets/main.js"></script>
+  </body>
+</html>

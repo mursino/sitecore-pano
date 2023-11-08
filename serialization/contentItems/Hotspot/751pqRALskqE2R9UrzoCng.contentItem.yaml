@@ -1,0 +1,18 @@
+﻿id: 751pqRALskqE2R9UrzoCng
+name: Museum front door
+fields:
+  hotspotName:
+    value: Museum front door
+    type: ShortText
+  pitchstring:
+    value: 10.893499663695678
+    type: ShortText
+  yawstring:
+    value: 8.0158710839534
+    type: ShortText
+  sceneLink:
+    value:
+    - type: Link
+      relatedType: Content
+      id: 1ECBfM0BiE-e2oehjep54A
+    type: Reference

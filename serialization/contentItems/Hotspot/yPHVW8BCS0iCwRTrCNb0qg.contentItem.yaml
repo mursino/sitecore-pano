@@ -1,0 +1,15 @@
+﻿id: yPHVW8BCS0iCwRTrCNb0qg
+name: North Charles Street
+fields:
+  hotspotName:
+    value: This is North Charles Street
+    type: ShortText
+  pitchstring:
+    value: -0.9
+    type: ShortText
+  yawstring:
+    value: 144.4
+    type: ShortText
+  sceneLink:
+    value: []
+    type: Reference

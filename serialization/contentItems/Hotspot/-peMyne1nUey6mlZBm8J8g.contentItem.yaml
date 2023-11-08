@@ -1,0 +1,15 @@
+﻿id: -peMyne1nUey6mlZBm8J8g
+name: payment
+fields:
+  hotspotName:
+    value: Scan here
+    type: ShortText
+  pitchstring:
+    value: -14.397278387275414
+    type: ShortText
+  yawstring:
+    value: 63.42250115537184
+    type: ShortText
+  sceneLink:
+    value: []
+    type: Reference
