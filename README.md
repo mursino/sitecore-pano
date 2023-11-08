@@ -1,6 +1,6 @@
 # 🌎 Welcome to the world of Sitecore Pano
 
-This repository contains a working example of using Sitecore Content Hub ONE to display panoramic virtual worlds in the browser with CMS-controlled imagery and hotspots.
+This repository contains a working example of using Sitecore Content Hub ONE to display panoramic virtual worlds in the browser with CMS-controlled imagery and hotspots. Read more in the blog post [*Headless is Out of This World, Let’s Dive In!*](https://blogs.perficient.com/2023/09/29/headless-is-out-of-this-world-lets-dive-in/).
 
 ## Getting started
 
